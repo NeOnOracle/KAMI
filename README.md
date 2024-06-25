@@ -16,3 +16,5 @@ Make sure you change the database, names, passwords, and whatever else is differ
 Then you go into the Kami folder and write "python manage.py runserver".
 
 After that copy or press ctrl then click the IP that is in the CMD and paste it(only if your copied it) into a web browser.
+
+Not leaving public for obvious reasons, but feel free to contact me and I can share with you.
